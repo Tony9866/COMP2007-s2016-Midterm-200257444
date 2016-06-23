@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_Midterm_200257444 {
+namespace COMP2007_S2016_MidTerm_200257444 {
     
     
     public partial class TodoDetails {
